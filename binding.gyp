@@ -58,6 +58,7 @@
       "copies": [{
         "files": [ "<(PRODUCT_DIR)/keytar.node" ],
         "destination": "lib/binding/<!(node './lib/module_dir')/"
+      }]
     }
   ]
 }
